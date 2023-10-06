@@ -1,0 +1,197 @@
+@media screen and (max-width:1450px){
+    .header_main{
+        background-position: top;
+    }
+}
+
+@media screen and (max-width:1350px){
+    .header_main{
+        background-position: top;
+        padding-top: 100px;
+    }
+    
+}
+
+@media screen and (max-width:1290px){
+    .header_main{
+        background-position: top;
+        padding-top: 80px;
+    }
+    
+}
+
+@media screen and (max-width:900px){
+    .main_table{
+        width: 700px;
+    }
+    .main_left_container{
+        width: 350px;
+        margin-left: auto;
+        margin-right: 20px;
+    }
+    body{
+        font-size: 18px;
+        font-family: 'Poppins', sans-serif;
+    }
+}
+@media screen and (max-width:800px){
+    .main_table{
+        width: 700px;
+    }
+    .main_left_container{
+        width: 350px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    body{
+        font-size: 18px;
+        font-family: 'Poppins', sans-serif;
+    }
+    .main_grid_container{
+        margin-top: 10px;
+    }
+    .main_right_container{
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:700px){
+    .main_table{
+        width: 500px;
+    }
+}
+
+@media screen and (max-width:660px){
+    .header_search_input, .search_and_select{
+        width: 400px;
+
+    }
+
+    .header_search_input input{
+        width: 350px;
+    }
+    .vin_filter_btn{
+       margin-left: 290px; 
+    }
+
+    .hidden {
+        width: 400px;
+    }
+
+    .filter_model, .filter_type{
+        margin-left: 0px;
+        margin-top: 25px;
+    }
+    .filter_mark, .filter_model, .filter_type{
+        width: 400px;
+    }
+
+    .vin_filter_btn{
+        margin-bottom: 30px;
+    }
+    
+}
+
+@media screen and (max-width:580px){
+    .header_search_input, .search_and_select{
+        width: 350px;
+
+    }
+
+    .header_search_input input{
+        width: 300px;
+    }
+    .vin_filter_btn{
+       margin-left: 240px; 
+    }
+
+    .hidden {
+        width: 350px;
+    }
+
+    .filter_model, .filter_type{
+        margin-left: 0px;
+        margin-top: 25px;
+    }
+    .filter_mark, .filter_model, .filter_type{
+        width: 350px;
+    }
+
+    .vin_filter_btn{
+        margin-bottom: 30px;
+    }
+}
+
+@media screen and (max-width:504px){
+    .header_search_input, .search_and_select{
+        width: 350px;
+    }
+    .header_search_input input{
+        width: 300px;
+    }
+    .vin_filter_btn{
+       margin-left: 240px; 
+    }
+    .hidden {
+        width: 350px;
+    }
+    .filter_model, .filter_type{
+        margin-left: 0px;
+        margin-top: 25px;
+    }
+    .filter_mark, .filter_model, .filter_type{
+        width: 350px;
+    }
+    .vin_filter_btn{
+        margin-bottom: 30px;
+    }
+    .main_table{
+        width: 400px;
+    }
+    body{
+        font-size: 15px;
+        font-family: 'Poppins', sans-serif;
+    }
+}
+
+@media screen and (max-width:407px){
+    .header_search_input, .search_and_select{
+        width: 300px;
+    }
+    .header_search_input input{
+        width: 250px;
+    }
+    .vin_filter_btn{
+        margin-left: 190px; 
+     }
+     .hidden {
+         width: 300px;
+     }
+     .filter_mark, .filter_model, .filter_type{
+        width: 300px;
+    }
+    .main_table{
+        width: 300px;
+    }
+    .main_left_container{
+        width: 300px;
+    }
+}
+
+@media screen and (max-width:407px){
+    .header_search_input, .search_and_select{
+        width: 300px;
+    }
+    .header_search_input input{
+        width: 250px;
+    }
+    .vin_filter_btn{
+        margin-left: 190px; 
+     }
+     .hidden {
+         width: 300px;
+     }
+     .filter_mark, .filter_model, .filter_type{
+        width: 300px;
+    }
+}
